@@ -1,0 +1,85 @@
+div{
+   
+    background-color: rgb(247, 218, 249);
+    text-align: center;
+    border-radius: 10px;
+   margin: 10px;
+   padding: 10px;
+  
+    
+}
+.container{
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     
+    
+
+}
+h3{
+    background-color: rgb(246, 217, 246);
+    border-radius: 5px;
+    display: inline-block;
+}
+.small{
+    display: flex;
+     flex-direction: column;
+     background-color: rgb(237, 208, 250);
+     border-radius: 5px;
+     padding: 5px;
+    
+}
+.intro{
+  margin: 10px;
+  background-color: rgb(243, 188, 227);
+  padding: 10px;
+}
+.kwk{
+    margin: 10px;
+    background-color: rgb(243, 188, 227);
+     padding: 10px;
+}
+.facts{
+    
+     margin: 10px;
+     background-color:  rgb(243, 188, 227);
+      padding: 10px;
+
+}
+.hobbies{
+    background-color: rgb(240, 186, 227);
+    padding: 10px;
+    margin:10px;
+}
+
+body{
+    background-color: rgb(214, 192, 235);
+    padding: 30px
+}
+h1{
+    text-align: center;
+     background-color: rgb(240, 186, 227);
+     border-radius: 5px;
+     display: inline-block;
+}
+
+img{
+width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+button{
+    background-color: rgb(237, 185, 240);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+p{
+    background-color: rgb(245, 221, 254);
+    border-radius: 5px;
+    padding: 5px;
+    
+}
